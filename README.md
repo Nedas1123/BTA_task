@@ -11,10 +11,10 @@ Java 17 installed
 run mvn clean install
 
 in resouces folder - config.properties file edit fields:
-oldImport - Value which will be swapped
-newImport - Value which suppose to swap oldImport
-odtFile - Name of file which will be edited
-folderPath - Path to the folder which contains odt files
+- oldImport - Value which will be swapped
+- newImport - Value which suppose to swap oldImport
+- odtFile - Name of file which will be edited
+- folderPath - Path to the folder which contains odt files
 
 # How it works
 1. Checks if path and folder are correct
